@@ -20,8 +20,9 @@ class employee{
 
 
 int main(){
-    // employee e1, e2, e3;
-    // e1.setid();
-    // e1.getid();
-    // return 0;
+     employee e1, e2, e3;
+     e1.setid();
+     e1.getid();
+     return 0;
 }
+
